@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning CICD and improving my Python skills regarding Network Automation
 - 📫 How to reach me: ben at bashy.eu
 - 💬 Ask me about Core Networking, Networking, Python Network Automation, Cisco NSO
+- ⚡ben@localhost.re
 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
