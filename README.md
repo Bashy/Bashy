@@ -9,7 +9,7 @@
 - 📫 How to reach me: ben at bashy.eu
 - 💬 Ask me about Core Networking, Networking, Python Network Automation, Cisco NSO
 - 🌱 I develop some stuff on Lightning Network on my free time
-- ⚡ben@localhost.re
+- ⚡[ben@localhost.re](lightning:ben@localhost.re)
 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
