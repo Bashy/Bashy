@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as NetDevOps for a major French ISP Provider
 - 🌱 I’m currently improving my CICD skills
-- 📫 How to reach me, I can talk 🇫🇷 🇬🇧 🇻🇳 🇯🇵
+- 📫 How to reach me 🇫🇷 🇬🇧 🇻🇳 🇯🇵
   - email : ben at bashy.eu
   - nostr : __[npub12ej3ve3aj820a7pyatkvh7wzvvdgmz3wlm5qfr99aesfteh9epps4vengl](https://snort.social/p/npub12ej3ve3aj820a7pyatkvh7wzvvdgmz3wlm5qfr99aesfteh9epps4vengl)__
 - 💬 Ask me about Core Networking, Networking, Python Network Automation, Cisco NSO
