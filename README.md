@@ -20,3 +20,4 @@
 - ⚡ Fun fact: ...
 -->
 
+![bashy](https://localhost.re/bashy_125.png)
